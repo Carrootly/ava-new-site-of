@@ -1,0 +1,32 @@
+.pre-nav{
+    display: flex;
+    align-self: center;
+    color: black;
+    width: 70%;
+    margin-left:15%;
+    height: auto;
+    background-color: hsl(125, 57%, 28%);
+    margin-top: 10px;
+    border-radius: 10px 10px 0px 0px;
+
+    
+    
+    
+}
+
+.aniversary{
+    max-width: 40vw;
+    font-family: 'Inter';
+    color: #fff;
+    font-size: 30px;
+    margin-left: 20%;
+    margin-top: 27px;
+
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+}
+
+

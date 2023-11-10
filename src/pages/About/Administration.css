@@ -1,0 +1,45 @@
+.body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+.particles{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+    background-color: aqua;
+    border-radius: 50px;
+    
+}
+
+.adm-words{
+    display: flex;
+    font-family: 'Inter';
+    font-size: large;
+    margin-left: 20px;
+    margin-top: 18%;
+
+
+}
+
+.adm-pictures{
+    margin-left: 5%;
+    border-radius: 40%;
+}
+
+.title{
+    display: flex;
+    justify-content: space-evenly;
+    color: aqua;
+}
+
+.title h1{
+    font-weight: 700;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aqua;
+    
+
+
+}

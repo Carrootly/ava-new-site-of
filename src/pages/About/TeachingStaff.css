@@ -1,0 +1,60 @@
+.title{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.title h1{
+    font-weight: 700;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(17, 169, 207);
+    
+
+
+}
+
+.body-teaching{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+ 
+}
+
+
+.teaching-particles{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+    background-color: rgb(17, 169, 207);
+    border-radius: 50px;
+
+    
+}
+
+.teaching-words{
+    display: flex;
+    font-family: 'Inter';
+    font-size: large;
+    margin-left: 20px;
+    margin-top: 18%;
+    text-decoration: none;
+
+
+}
+
+.teaching-pictures{
+    margin-left: 5%;
+    border-radius: 40%;
+    width:8vw;
+    height: 25vh;
+}
+
+.teacher-name{
+    font-family: 'Inter';
+    font-weight: 500;
+
+}
+
+.link-line {
+    text-decoration: none;
+    color: black;
+}

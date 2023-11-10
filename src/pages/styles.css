@@ -1,0 +1,32 @@
+.contatos{
+    display: flex;
+    background-color:  #6669e9;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.contatos-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
+.contato-imagens{
+    height: 30px;
+    width: 30px;
+
+}
+
+.contatos-end{
+    white-space: nowrap;
+}
+
+
+
+
+

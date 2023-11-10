@@ -1,0 +1,68 @@
+#eduEdu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+
+
+#eduEdu div{
+    border: solid 1px;
+    height: 250px;
+    width: 230px;
+    text-decoration: none;
+}
+
+#eduEdu div:hover{
+    border: solid black;
+    height: 280px;
+    width: 250px;
+    color: black;
+}
+
+#eduEdu a{
+    text-decoration: none;
+    color: black;
+}
+
+.k{
+    background-color: #00838f;
+
+}
+
+.primary{
+    background-color: #f30a73 ;
+}
+
+.hs{
+    margin-left: 20%;
+    height: 150px;
+    width: 150px;
+ }
+
+.highschool{
+    background-color: #00897b ;;
+}
+
+.middle{
+    background-color: #7cb342;
+  
+}
+
+.eduLevels-pic{
+   margin-left: 17%;
+   margin-bottom: 5%;
+    height: 180px;
+    width: 160px;
+}
+.cards{
+    
+    font-family: sans-serif;
+    font-size: 19px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.visit{
+    background-color: rgb(243, 243, 77);
+}

@@ -1,0 +1,36 @@
+.history-body{
+    height: 100vh;
+    margin-bottom: 10px;
+}
+
+.title-history{
+    background-color: #388e3c;
+    font-family: "Inter";
+    display: flex;
+    justify-content: space-evenly;
+    color: #fff;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 2%;
+
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 12%;
+    font-size: 20px;
+    white-space: nowrap;
+}
+
+.history-pictures{
+    width: 50wv;
+    height: 60vh;
+}
+
+.bell-family{
+    width: 60%;
+    height: 350px;
+    margin-left: 20%;
+}
